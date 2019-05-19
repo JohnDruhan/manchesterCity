@@ -1,6 +1,9 @@
 # manchesterCity
 The web page for the Soccer Team 'Manchester City' --- A full stack web application built with React along with firebase/firestore
 
+Check out the deployed sight on firebase/firestore: https://mcity-6348e.firebaseapp.com
+
+
 ## Available Scripts
 
 In the project directory, you can run:
